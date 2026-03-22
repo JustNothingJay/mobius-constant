@@ -1,5 +1,7 @@
 # mobius-constant
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19157585.svg)](https://doi.org/10.5281/zenodo.19157585)
+
 **Exact irrational constants — `sqrt(2)**2 == 2`, by construction.**
 
 ```python
