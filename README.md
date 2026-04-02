@@ -92,7 +92,10 @@ The equation α⁻¹ + S·α = 4π³ + π² + π is the **auditor**, not the def
 ## See Also
 
 - [mobius-number](https://github.com/JustNothingJay/mobius-number) — Complementary residue arithmetic for rationals (`0.1 + 0.2 == 0.3`)
-- [mobius-integer](https://github.com/JustNothingJay/mobius-integer) — Möbius function and Dirichlet series in Rust
+- [mobius-integer](https://github.com/JustNothingJay/mobius-integer) — Dual-strand integer: machine i64 + exact BigInt (Rust)
+- [mobius-units](https://github.com/JustNothingJay/mobius-units) — Fundamental constants from the eigenvalue tower — one measurement derives them all
+
+Same pattern. Same anatomy. Same fix. Different domain.
 
 ## License
 
